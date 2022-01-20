@@ -1,4 +1,4 @@
-# CallAMice
+# Call A Mice
 
 The mice is hungry. Help the mice to get the cheese by blowing up the cubes. Arrange three or more cubes horizontally or vertically with the same color by shifting each cube.
 
