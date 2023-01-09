@@ -7,3 +7,5 @@ Challenging level with counted shift. So you have to plan for the shortest mice 
 Be careful. There are some traps like holes, snap traps, and fake cheese that mice should avoid because they can hurt the mice.
 
 Complete all levels with your smart brain.
+
+Available on <a href="https://play.google.com/store/apps/details?id=com.callapet.callamice">Google Play</a>
